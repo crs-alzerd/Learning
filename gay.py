@@ -1,3 +1,3 @@
 print('gaynoga')
-print('Hello')
+
 
